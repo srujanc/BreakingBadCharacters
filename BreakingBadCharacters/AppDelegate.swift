@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  BreakingBadCharacters
 //
-//  Created by N., Mohankumar (Cognizant) on 12/01/21.
+//  Created by Srujan on 12/01/21.
 //
 
 import UIKit
